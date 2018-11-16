@@ -1,0 +1,3 @@
+- Augmenter la couverture test
+- Interface graphique
+- Tournoi, score
